@@ -23,8 +23,6 @@
 - [💡 아키텍처](#아키텍처)
 
 - [🗂️ ERD Diagram](#ERD-Diagram)
-
-- [💥 Challenges & Troubleshooting](#challenges--troubleshooting)
   
 - [🚦 시작 가이드](#시작-가이드)
 
